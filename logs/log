@@ -1,0 +1,13 @@
+{"asctime": "2025-09-07 02:13:27,139", "levelname": "INFO", "message": "get logger", "pathname": "C:\\Users\\Ryan\\Desktop\\SNS\\logger.py"}
+{"asctime": "2025-09-07 02:14:11,901", "levelname": "INFO", "message": "get logger", "pathname": "C:\\Users\\Ryan\\Desktop\\SNS\\logger.py"}
+{"asctime": "2025-09-07 02:14:58,756", "levelname": "INFO", "message": "get logger", "pathname": "C:\\Users\\Ryan\\Desktop\\SNS\\logger.py"}
+{"asctime": "2025-09-07 02:15:01,374", "levelname": "WARNING", "message": "The OGB package is out of date. Your version is 1.3.5, while the latest version is 1.3.6.", "pathname": "C:\\Users\\Ryan\\Videos\\Desktop\\Graph-Reasoning-LLM\\.venv\\Lib\\site-packages\\ogb\\version.py"}
+{"asctime": "2025-09-07 02:19:08,439", "levelname": "INFO", "message": "get logger", "pathname": "C:\\Users\\Ryan\\Desktop\\SNS\\logger.py"}
+{"asctime": "2025-09-07 02:20:55,694", "levelname": "INFO", "message": "get logger", "pathname": "C:\\Users\\Ryan\\Desktop\\SNS\\logger.py"}
+{"asctime": "2025-09-07 02:21:04,665", "levelname": "WARNING", "message": "The OGB package is out of date. Your version is 1.3.5, while the latest version is 1.3.6.", "pathname": "C:\\Users\\Ryan\\Desktop\\SNS\\.venv\\Lib\\site-packages\\ogb\\version.py"}
+{"asctime": "2025-09-07 02:22:10,928", "levelname": "INFO", "message": "get logger", "pathname": "C:\\Users\\Ryan\\Desktop\\SNS\\logger.py"}
+{"asctime": "2025-09-07 02:22:17,073", "levelname": "WARNING", "message": "The OGB package is out of date. Your version is 1.3.5, while the latest version is 1.3.6.", "pathname": "C:\\Users\\Ryan\\Desktop\\SNS\\.venv\\Lib\\site-packages\\ogb\\version.py"}
+{"asctime": "2025-09-07 02:24:28,232", "levelname": "INFO", "message": "get logger", "pathname": "C:\\Users\\Ryan\\Desktop\\SNS\\logger.py"}
+{"asctime": "2025-09-07 02:24:34,875", "levelname": "WARNING", "message": "The OGB package is out of date. Your version is 1.3.5, while the latest version is 1.3.6.", "pathname": "C:\\Users\\Ryan\\Desktop\\SNS\\.venv\\Lib\\site-packages\\ogb\\version.py"}
+{"asctime": "2025-09-07 02:25:42,465", "levelname": "INFO", "message": "get logger", "pathname": "C:\\Users\\Ryan\\Desktop\\SNS\\logger.py"}
+{"asctime": "2025-09-07 02:25:48,665", "levelname": "WARNING", "message": "The OGB package is out of date. Your version is 1.3.5, while the latest version is 1.3.6.", "pathname": "C:\\Users\\Ryan\\Desktop\\SNS\\.venv\\Lib\\site-packages\\ogb\\version.py"}
